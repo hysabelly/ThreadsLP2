@@ -2,4 +2,4 @@
 
 Linguagem de Programação 2
 
-replit:
+https://replit.com/@hysabelly/vetoresThreads#Main.java
