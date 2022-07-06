@@ -1,5 +1,7 @@
-# Trabalho com Threads - Aula Remota
+# Trabalho com Vetores e Threads
 
 Linguagem de Programação 2
 
-https://replit.com/@hysabelly/vetoresThreads#Main.java
+- Ler e escrever vetores com valores inteiros/floats/strings com threads.
+
+https://replit.com/@hysabelly/vetoresThreads
